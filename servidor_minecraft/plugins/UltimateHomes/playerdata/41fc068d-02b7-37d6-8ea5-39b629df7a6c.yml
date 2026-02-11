@@ -1,0 +1,18 @@
+player:
+  info:
+    lastSeenAs: Javiraider
+homes:
+  casa:
+    x: -454
+    y: 64
+    z: 682
+    yaw: -92.26184
+    pitch: 32.214703
+    world: world
+  warden:
+    x: -609
+    y: -49
+    z: 3630
+    yaw: -0.7786865
+    pitch: 28.982838
+    world: world
